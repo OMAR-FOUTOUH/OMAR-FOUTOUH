@@ -18,7 +18,7 @@ I am a Master's student in **Network and Systems Engineering** at FST Settat, de
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omarfoutouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omarfoutouh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omar foutouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar foutouh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omar-foutouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar foutouh" height="30" width="40" /></a>
 <a href="https://fb.com/omar foutouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar foutouh" height="30" width="40" /></a>
 </p>
 
